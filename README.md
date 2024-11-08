@@ -1,5 +1,5 @@
 # OMD3 Cheat
-* Basic Orc must die 3 cheat.
+* Basic orcs must die 3 cheat.
 
 # Features
 * Set Money.
